@@ -1,0 +1,112 @@
+.header{
+    background: rgb(54, 2, 56);
+    width: 100%;
+height: 85px;
+}
+body{
+    margin: 0;
+}
+.logo{
+    width: 50px;
+    padding-top: 10px;
+}
+.login{
+    width: 50px;
+    
+    
+}
+.logo-text{
+    color: floralwhite;
+    font-size: 40px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+button{
+    color: #ffffff;
+    background-color: black;
+    margin-left:1200px;
+    
+    
+}
+.sign{
+    background:rgb(62, 1, 95);
+    width: 40%;
+    height: 400px;
+    margin-left: 200px;
+    margin-top: 10px;
+}
+.signup{
+    COLOR: blue;
+    FONT-SIZE: 40PX;
+    FONT-FAMILY: fantasy;
+    MARGIN-LEFT: 230PX;
+    TEXT-DECORATION: none;
+}
+.text{
+    padding-top: 20px;
+}
+.page{
+    padding-top: 50px;
+    margin-left: 100px;
+    color: #ffffff;
+}
+.submit{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.email{
+    margin-top: 10px;
+}
+.img{
+    width: 1000px;
+    height: 500px;
+}
+.home{
+    margin-left: 430px;
+    font-family: monospace;
+    color: blueviolet;
+    font-size: 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.body{
+    background-color:rgb(33, 10, 45);
+}
+.mt{
+    color: #ffffff;
+    font-family:"Courier New", Courier, monospace;
+}
+.at{
+    color: rgb(168, 168, 168);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    margin-left: 346px;
+}
+.im{
+    margin-left:230px;
+    height:55px;
+    text-decoration: none;
+    font-style: oblique;
+    font-family: monospace;
+    
+}
+.avibody{
+    background-color: rgb(33, 10, 45);
+
+}
+.avihl{
+    color: #ffffff;
+    margin-left: 219px;
+    font-weight: bold;
+    font-family: math;
+}
+.home1{
+    color: blueviolet;
+    margin-left: 44px;
+    font-family: monospace;
+    text-decoration: none;
+    font-weight: bold;
+}
